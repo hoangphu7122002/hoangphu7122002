@@ -10,8 +10,34 @@ Currently focusing on:
 
 ### Languages and tools
 
+**Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,cs,swift,bash,mysql,postgres,mongodb,docker,kubernetes,kafka,spark,hadoop,aws,terraform,linux" alt="languages and tools" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,ts,cs,swift,bash&perline=9" alt="languages" />
+</p>
+
+**AI and GPU**
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFB000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging_Face" /> <img src="https://img.shields.io/badge/NVIDIA_TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA_TensorRT" /> <img src="https://img.shields.io/badge/Triton_Inference_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Triton_Inference_Server" /> <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" /> <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge&logo=vllm&logoColor=white" alt="vLLM" /> <img src="https://img.shields.io/badge/Modal-7FEE64?style=for-the-badge&logo=modal&logoColor=white" alt="Modal" />
+</p>
+
+**Data engineering**
+
+<p>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" /> <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white" alt="Hive" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> <img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white" alt="Superset" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=9" alt="databases" />
+</p>
+
+**Infra and cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux&perline=9" alt="infra" />
 </p>
 
 ### What I work with
