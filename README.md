@@ -54,7 +54,7 @@ Currently focusing on:
 | System design | Architecture for AI products: pipelines, queues, serving tiers, cost and failure planning, DevOps |
 | Algorithms | Competitive programming, parallel algorithms, optimisation (NSGA, genetic algorithms), graph problems |
 
-✍️ Blog: [hoangphu7122002.github.io/cms](https://hoangphu7122002.github.io/cms/) (what I learn at work and in study)
+✍️ Blog: [blog.phufamily.com](https://blog.phufamily.com/) (what I learn at work and in study)
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ph%C3%BA-nguy%E1%BB%85n-%C4%91%E1%BA%AFc-ho%C3%A0ng-303025221/)
 
